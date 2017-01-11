@@ -1,19 +1,3 @@
-/*
- Navicat Premium Data Transfer
-
- Source Server         : local
- Source Server Type    : MySQL
- Source Server Version : 50717
- Source Host           : localhost
- Source Database       : medical_server
-
- Target Server Type    : MySQL
- Target Server Version : 50717
- File Encoding         : utf-8
-
- Date: 01/11/2017 17:14:35 PM
-*/
-
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
